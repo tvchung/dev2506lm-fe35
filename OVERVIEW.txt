@@ -1,0 +1,74 @@
+#Khóa học: 
+## Phần 1: Lập trình frontend (30-36g) -> (x3)
+	### HTML5: (2b)
+		- Cấu trúc html5
+		- Các thẻ cơ bản 
+		- table / form 
+		- Các thẻ bố cục nội dung
+	### CSS3: (2b-3b)
+		- Cú pháp tương tác
+		- Kích thước
+		- Màu
+		- Quy tắc
+		....
+		==> .html 
+	### Javascript:(3b-4b) ngôn ngữ lập trình kịch bản 
+		- syntax
+		- Biến, hằng, toán tử, toán hạng, biểu thức,
+			câu lệnh, khối lệnh ,....
+		- Hàm hệ thống (I/O)
+		- Cấu trúc lập: (3 loại cấu trúc)
+			+ Loại 1: Lựa chọn / rẽ nhánh:
+				++ Cấu trúc if: có 4 dạng if 
+				
+				++ Cấu trúc switch
+				
+			+ Loại 2: Loop (lặp)
+				++ for: (4 dạng for khác)
+				
+				++ while:
+				
+				++ do...while:
+				
+				++ foreach:
+				
+			
+			+ Loại 3: cấu trúc nhảy
+				++ break;
+				++ continue;
+				++ return ;
+		- Mảng
+		- Hàm 
+		- Object (String / Date / ...)
+		- DOM 
+		....
+	### jQuery: thư viện  (1b - 2b)
+	### Bootstrap (1b) 
+	### Thiết kế: (figma / psd / ai / xd/ ..) => .html 
+	
+	### Mock Project
+		- file (.psd) (5 -10 trang)
+		- (2 tuần) -> .html 
+
+	## - Công cụ:
+		- visual code
+		- photoshop
+		- github: 
+	## Tài liệu:
+		- google drive 
+			++ Slide
+			++ Labguides
+			++ Books
+	## Học tập: classroom
+	
+------------------------------------------------------
+
+## Phần 2: Lập trình cơ sở dữ liệu
+
+# Backend: (Nodejs / php laravel / spring boot 3 / netcore )
+## Phần 3:  
+
+## Phần 4: Mock project 
+
+## Phần 5: Intership
+
