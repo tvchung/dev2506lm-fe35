@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h1>Form</h1>
+    <hr>
+    <form action="" method="post" enctype="multipart/form-data">
+        <h2>Input:</h2>
+        <p>
+            Text:
+            <input type="text" id="txt1" name="txt1" placeholder="ô nhập text" required>
+        </p>
+        <p>
+            Password:
+            <input type="password" name="pass" id="pass" required>
+        </p>
+        <p>
+            File:
+            <input type="file" name="anh" id="anh">
+        </p>
+        <p>
+            Checkbox:
+            <input type="checkbox" name="ck1" id="ck1" checked>
+            <label for="ck1">Checkbox1</label>
+            <input type="checkbox" name="ck2" id="ck2">
+            <label for="ck2">Checkbox2</label>
+            <input type="checkbox" name="ck3" id="ck3">
+            <label for="ck3">Checkbox3</label>
+        </p>
+        <p>
+            Radio:
+            <input type="radio" name="rd" id="rd1">
+            <label for="rd1">Radio 1</label>
+            
+            <input type="radio" name="rd" id="rd2" checked>
+            <label for="rd2">Radio 2</label>
+
+            <input type="radio" name="rd" id="rd3">
+            <label for="rd3">Radio 3</label>
+
+        </p>
+        <p>
+            Email:
+            <input type="email" name="email" id="email" placeholder="exam@gmail.com">
+        </p>
+        <p>
+            tel:
+            <input type="tel" name="dt" id="dt" placeholder="+(84) xxx-xxxx-xxx">
+        </p>
+        <p>
+            Number:
+            <input type="number" name="num" id="num" min="0" max="100" value="10">
+        </p>
+        <p>
+            range:
+            <input type="range" name="rang" id="rang" min="0" max="10" value="5">
+        </p>
+        <p>
+            Ngày:
+            <input type="date" name="ngaySinh" id="ngaySinh" >
+            <br>
+            <input type="time" name="tg" id="tg">
+        </p>
+        <p>
+            Color:
+            <input type="color" name="mau" id="mau" value="red">
+        </p>
+
+        <p>
+            Select:
+            <select name="chon" id="chon">
+                <option value="">----Chộn-----</option>
+                <option value="1">HN</option>
+                <option value="2">Tp.HCM</option>
+                <option value="3">Tp Hải phòng</option>
+            </select>
+        </p>
+        <p>
+            TextArea:
+            <textarea name="diachi" id="diachi" rows="3" cols="50"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Gửi">
+            <input type="reset" value="Làm lại">
+        </p>
+    </form>
+</body>
+</html>
